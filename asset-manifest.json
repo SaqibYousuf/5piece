@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f37a435.css",
+    "main.js": "/static/js/main.4b121be2.js",
+    "static/js/787.cfe29d29.chunk.js": "/static/js/787.cfe29d29.chunk.js",
+    "static/media/videoProduct.mp4": "/static/media/videoProduct.a77d7e8461cdec0ffc66.mp4",
+    "static/media/moreImage2.jpeg": "/static/media/moreImage2.1646210074448700ac01.jpeg",
+    "static/media/moreImag1.jpeg": "/static/media/moreImag1.d8022b663feb8bb382e2.jpeg",
+    "static/media/productImage.png": "/static/media/productImage.8ad3d2cf95916851a5cb.png",
+    "static/media/belt.png": "/static/media/belt.ae29da4e4599d789504d.png",
+    "static/media/posterImage.jpeg": "/static/media/posterImage.9126b997baee16a7e8ce.jpeg",
+    "static/media/wallet.png": "/static/media/wallet.1b57fc0949608a6ea6c5.png",
+    "static/media/glasses.png": "/static/media/glasses.646ceb333cccd0d254e6.png",
+    "static/media/keychain.png": "/static/media/keychain.cf764687a7a44f831e8f.png",
+    "static/media/watch.png": "/static/media/watch.f51e71d72f017abb9f7c.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1f37a435.css.map": "/static/css/main.1f37a435.css.map",
+    "main.4b121be2.js.map": "/static/js/main.4b121be2.js.map",
+    "787.cfe29d29.chunk.js.map": "/static/js/787.cfe29d29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f37a435.css",
+    "static/js/main.4b121be2.js"
+  ]
+}
